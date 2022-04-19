@@ -1,4 +1,4 @@
-# image2ascii :space_invader:
+# image2ascii :camera:
 
 Convert an image to ASCII and save it into a file, assigning a symbol to each pixel.
 
@@ -8,15 +8,16 @@ Let **f** be a function which assigns the position of a symbol of a set of symbo
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/f2.png)
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/f.png)
 
-Where the set X is the color set (red set in the image) 
+Where:
+* X is the color set (red set in the image) 
 
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/X.png)
 
-And the Y set is the positions set (blue set in the image)
+* Y set is the positions set (blue set in the image)
 
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/Y.png)
 
-The assignment is given by the function **f**
+The assignment is given by the function **f**:
 
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/fun.png)
 
