@@ -2,6 +2,7 @@
 
 Convert an image to ASCII and save it into a file, assigning a symbol to each pixel.
 
+## Explanation
 Let **f** be a function which assigns the position of a symbol of a set of symbols to each color (grey scale)
 
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/f2.png)
@@ -29,7 +30,9 @@ It will save it in a file **output.txt**
 
 # Example
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/saturno.png)
+
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/saturnoIDE.png)
 
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/anonymous.png)
+
 ![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/anonymousIDE.png)
