@@ -28,14 +28,8 @@ sh compile.sh
 It will save it in a file **output.txt**
 
 # Example
+![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/saturno.png)
+![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/saturnoIDE.png)
 
-<table style="padding:10px">
-  <tr>
-    <td><img src="./img/saturno.png" width = 440px height = 355px></td>
-    <td><img src="./img/saturnoIDE.png" width = 440px height = 355px></td>
-  </tr>
-  <tr>
-    <td><img src="./img/anonymous.png" width = 440px height = 355px></td>
-    <td><img src="./img/anonymousIDE.png" width = 440px height = 355px></td>
-  </tr>
-</table>
+![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/anonymous.png)
+![alt text](https://github.com/MorcilloSanz/image2ascii/blob/main/img/anonymousIDE.png)
